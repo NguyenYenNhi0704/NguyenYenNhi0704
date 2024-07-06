@@ -4,9 +4,9 @@
 I'm an international economics senior student at Foreign Trade University. I am passionate about data analytics and currently on a journey that combines academic learning with real-world projects. This allows me to demonstrate my enthusiasm for transforming raw data into valuable insights.
 
 # Skills
-* Languages: Python, SQL, and R
-* Tools: Excel, Power BI
-* Data Analysis: Statistical Analytsis, Descriptive Analytics, Diagnostic Analytics, Prescriptive Analytics and Machine Learning
+* **Languages**: Python, SQL, and R
+* **Tools**: Excel, Power BI
+* **Data Analysis**: Statistical Analytsis, Descriptive Analytics, Diagnostic Analytics, Prescriptive Analytics and Machine Learning
 
 # Project
 
