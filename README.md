@@ -5,7 +5,7 @@ I'm an international economics senior student at Foreign Trade University. I am 
 
 # Skills
 * **Languages**: Python, SQL, and R
-* **Tools**: Excel, Power BI
+* **Tools**: Excel, Power BI, RStudio
 * **Data Analysis**: Statistical Analytsis, Descriptive Analytics, Diagnostic Analytics, Prescriptive Analytics and Machine Learning
 
 # Project
