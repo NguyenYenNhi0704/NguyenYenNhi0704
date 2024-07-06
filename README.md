@@ -1,4 +1,4 @@
-# Welcome to My Page 👋
+Welcome to My Page 👋
 
 ## About me
 I'm an international economics senior student at Foreign Trade University. I am passionate about data analytics and currently on a journey that combines academic learning with real-world projects. This allows me to demonstrate my enthusiasm for transforming raw data into valuable insights.
